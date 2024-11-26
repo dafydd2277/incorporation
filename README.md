@@ -36,7 +36,7 @@ step back into the Planning/Logistics/Fin/Admin roles.)
 
 - Must include "LLC" or something equivalent.
 
-- [Washington State LLC Name Search] [241124c]
+- [Washington State LLC Name Search][241124c]
 
 
 - "WA Limited Liability Company" vs "WA NONPROFIT CORPORATION
@@ -69,7 +69,7 @@ step back into the Planning/Logistics/Fin/Admin roles.)
 ## Oregon
 
 - [How to Start an LLC in Oregon][241124e](YouTube)
-- [Written Guide] [241124f]
+- [Written Guide][241124f]
 
 
 
@@ -82,7 +82,7 @@ step back into the Planning/Logistics/Fin/Admin roles.)
 
 - ([Intro Video][241124h])
 
-- [How to Get and EIN for your Business][241124i](YouTube)
+- [How to Get an EIN for your Business][241124i](YouTube)
 
     - Multi-member LLCs will be filling out different Fed Tax forms.
     
