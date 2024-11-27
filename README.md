@@ -23,60 +23,69 @@ step back into the Planning/Logistics/Fin/Admin roles.)
 ## Incorporating in Washington
 
 
-- [RCW 25.15][241124a] - LIMITED LIABILITY COMPANIES
 
-
-### WA LIMITED LIABILITY COMPANY
-
-- [How to Start a Washington LLC in 6 Steps][241124b] (YouTube)
-- [ Written Guide][241124d]
-
-
-- Northwest Registered Agent
-
-- Must include "LLC" or something equivalent.
 
 - [Washington State LLC Name Search][241124c]
 
 
-- "WA Limited Liability Company" vs "WA NONPROFIT CORPORATION
 
+### Register with the State
 
-### "WA NONPROFIT CORPORATION
+- Limited Liability Company
+    - Must include "LLC" or something equivalent.
+    - [RCW 25.15][241124a] - LIMITED LIABILITY COMPANIES
+    - [How to Start a Washington LLC in 6 Steps][241124b] (YouTube)
+    - [ Written Guide][241124d]
+    - Can go with someone like [Northwest Registered Agent][241127a]
+    to facilitate the process
 
+- Non Profit Corporation
+    - ([Starting a Nonprofit in Washington][241124j])(PDF)
 
-- ([PDF Gude][241124j])(PDF)
+    - [Title 24 RCW][241124l]  - Corporations and Associations (Nonprofit)
 
-[Title 24 RCW][241124l]  - Corporations and Associations (Nonprofit)
-
-
-- See also [WA Special Purpose Corporation][241124k].- RCW23B.25"
-
-
-
-
-- Need an EIN (Federal Tax ID Number)
-
-
-- [Business License][241124m] and adding a d/b/a "Safety Northwest."
+- [WA Special Purpose Corporation][241124k].- RCW23B.25"
 
 
 
+### Get a Business icense
+
+- Maybe? Maybe not. Can use the Business License to get a DBA.
+    - "Festval Support, LLC, DBA Safety Northwest 2025."
+        That leads doing limited-time corporations/licenses for each
+        event. That has advantages in disadvantages.
+  - [Business License][241124m] and adding a d/b/a "Safety
+  Northwest," or d/b/a "Cascadia Leadership Conference."
 
 
 
 
-## Oregon
+
+
+
+
+
+
+
+## Incorporating in Oregon
 
 - [How to Start an LLC in Oregon][241124e](YouTube)
 - [Written Guide][241124f]
 
 
 
+### Register with the State
 
 
-## Internal evenue Service
+### Get a Business License
 
+
+
+## FederalGovernment/Internal REvenue Service
+- Need an EIN (Federal Tax ID Number)
+
+ -Need a [Business Tax Account][241124g]. Also called an Employer
+ Identification Number, or EIN.
 
 - [EIN][241124g] or Business Tax Account
 
@@ -84,11 +93,12 @@ step back into the Planning/Logistics/Fin/Admin roles.)
 
 - [How to Get an EIN for your Business][241124i](YouTube)
 
-    - Multi-member LLCs will be filling out different Fed Tax forms.
+- Multi-member LLCs will be filling out different Fed Tax forms.
+[Here's a complete guide][241127b].
     
     
+- What about 501(c)3? Probably for the future.
     
-501(c)3
 
 
 
@@ -106,7 +116,8 @@ step back into the Planning/Logistics/Fin/Admin roles.)
 [241124k]: https://app.leg.wa.gov/RCW/default.aspx?cite=23B.25
 [241124l]: https://app.leg.wa.gov/RCW/default.aspx?Cite=24
 [241124m]: https://dor.wa.gov/open-business/apply-business-license
-
+[241127a]: https://www.northwestregisteredagent.com/
+[241127b]: https://tfx.tax/articles/taxes-by-entity/complete-guide-to-multi-member-llc-taxation
 
 
 
