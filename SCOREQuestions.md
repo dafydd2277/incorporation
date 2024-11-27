@@ -15,7 +15,8 @@ up that information, but OR is a valid choice as well.
 the pitfalls I need to look out for.
 
 - We need to have a solution for an event the end of April, 2025.
-However, the overall project
+However, I'm ambitions about this and already considering 2026 and
+later and expanding into producing other events.
 
 - (Background on what we're setting up.)
 
